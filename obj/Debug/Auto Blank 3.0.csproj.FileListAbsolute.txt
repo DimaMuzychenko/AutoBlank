@@ -1,0 +1,11 @@
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto Blank 3.0.csprojAssemblyReference.cache
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto Blank 3.0.csproj.ResolveComReference.cache
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto_Blank_3._0.Form1.resources
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto_Blank_3._0.Properties.Resources.resources
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto Blank 3.0.csproj.GenerateResource.cache
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\bin\Debug\Auto Blank 3.0.exe.config
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\bin\Debug\Auto Blank 3.0.exe
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\bin\Debug\Auto Blank 3.0.pdb
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto Blank 3.0.exe
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto Blank 3.0.pdb
+E:\Programming\Auto Blank 3.0\Auto Blank 3.0\obj\Debug\Auto_Blank_3._0.Form2.resources
